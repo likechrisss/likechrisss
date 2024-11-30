@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likechrisss" alt="likechrisss" /></a> </p>
 
-- 🌱 I’m currently learning **more about Data Science**
+- 🌱 I’m currently learning **more about Data  and hoping to make my mark in improving Data Analytics in Healthcare in Haiti.**
 
 - 📫 How to reach me **chrismylp1@gmail.com**
 
-- ⚡ Fun fact **I play music**
+- ⚡ Fun fact **I play music and I'm a huge Arsenal Football Club fan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
