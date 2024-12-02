@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Chrismy</h1>
-<h3 align="center">An Haitia interested in Data Analysis </h3>
+<h3 align="center">An Haitian interested in Data Analysis</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=likechrisss&label=Profile%20views&color=0e75b6&style=flat" alt="likechrisss" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=likechrisss&label=Profile%20views&color=0e75b6&style=flat" alt="likechrisss" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likechrisss" alt="likechrisss" /></a> </p>
-- 🎓 I hold a degree in Medicine.  
-- ✨ I'm driven by curiosity and a desire to solve real-world problems mostly within healthcare with the help of technology. I mostly work with underserved and marginalized communities.
-- 🌱 I’m currently learning **more about Data  and hoping to make my mark in improving Data Analytics in Healthcare in Haiti.**
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=likechrisss" alt="likechrisss" />
+  </a> 
+</p>
 
-- 📫 How to reach me **chrismylp1@gmail.com**
+<p>🎓 I hold a degree in <strong>Medicine</strong>.</p>
+<p>✨ I'm driven by curiosity and a desire to solve real-world problems, mostly within healthcare with the help of technology. I mostly work with underserved and marginalized communities.</p>
+<p>🌱 I’m currently learning <strong>more about Data</strong> and hoping to make my mark in improving <strong>Data Analytics in Healthcare in Haiti</strong>.</p>
+
+
+- ## 📫 How to reach me **chrismylp1@gmail.com**
 
 - ## 🎨 Hobbies & Interests
 - ⚽🏀🤼 I'm a huge sports fan. I support **Arsenal Football Club**, **Golden State Warriors** and love Wrestling. 
