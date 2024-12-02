@@ -16,9 +16,9 @@
 <p>🌱 I’m currently learning <strong>more about Data</strong> and hoping to make my mark in improving <strong>Data Analytics in Healthcare in Haiti</strong>.</p>
 
 
-- ## 📫 How to reach me **chrismylp1@gmail.com**
+## 📫 How to reach me **chrismylp1@gmail.com**
 
-- ## 🎨 Hobbies & Interests
+## 🎨 Hobbies & Interests
 - ⚽🏀🤼 I'm a huge sports fan. I support **Arsenal Football Club**, **Golden State Warriors** and love Wrestling. 
 - 📚 I'm an avid reader of science fiction and comic books.
 - 📺 I love a good TV Show.
