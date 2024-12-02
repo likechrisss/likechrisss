@@ -1,15 +1,25 @@
 <h1 align="center">Hi 👋, I'm Chrismy</h1>
-<h3 align="center">A MD from Haiti interested in Data Science</h3>
+<h3 align="center">An Haitia interested in Data Analysis </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likechrisss&label=Profile%20views&color=0e75b6&style=flat" alt="likechrisss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likechrisss" alt="likechrisss" /></a> </p>
-
+- 🎓 I hold a degree in Medicine.  
+- ✨ I'm driven by curiosity and a desire to solve real-world problems mostly within healthcare with the help of technology. I mostly work with underserved and marginalized communities.
 - 🌱 I’m currently learning **more about Data  and hoping to make my mark in improving Data Analytics in Healthcare in Haiti.**
 
 - 📫 How to reach me **chrismylp1@gmail.com**
 
-- ⚡ Fun fact **I play music and I'm a huge Arsenal Football Club fan.**
+- ## 🎨 Hobbies & Interests
+- ⚽🏀🤼 I'm a huge sports fan. I support **Arsenal Football Club**, **Golden State Warriors** and love Wrestling. 
+- 📚 I'm an avid reader of science fiction and comic books.
+- 📺 I love a good TV Show.
+- 🎵 In my free time, I enjoy playing music and mixing.
+- 🌍 I love learning new things and try not to put myself in box.
+
+## 🚀 Goals for 2025
+- 🌟 Deepen my knowledge in Data Analysis, AI and more.
+- ✅ Launch my first project.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
