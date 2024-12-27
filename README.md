@@ -1,6 +1,7 @@
 # Hi 👋, I'm Chrismy
 
 ## An Haitian Interested in Data Analysis
+<!-- markdownlint-disable MD033 -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=likechrisss&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -38,5 +39,7 @@ You can email me at [chrismylp1@gmail.com](mailto:chrismylp1@gmail.com).
 
 ## Languages and Tools
 
-[![Adobe Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)](https://www.adobe.com/in/products/illustrator.html)
-[![Adobe Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)](https://www.photoshop.com/en)
+[<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40" />](https://www.adobe.com/in/products/illustrator.html)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40" />](https://www.photoshop.com/en)
+
+<!-- markdownlint-enable MD033 -->
