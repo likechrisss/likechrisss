@@ -34,8 +34,8 @@ You can email me at [chrismylp1@gmail.com](mailto:chrismylp1@gmail.com).
 
 ## Connect with Me
 
-[![Twitter - likechrisss](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/likechrisss)
-[![LinkedIn - Chrismy Augustin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/chrismy%20augustin)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - likechrisss" width="40" height="40" />](https://twitter.com/likechrisss)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Chrismy Augustin" width="40" height="40" />](https://linkedin.com/in/chrismy%20augustin)
 
 ## Languages and Tools
 
