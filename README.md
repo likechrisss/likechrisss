@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chrismy
 
-## An Haitian Interested in Data Analysis
+## A Haitian Interested in Data Analysis
 <!-- markdownlint-disable MD033 -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=likechrisss&label=Profile%20views&color=0e75b6&style=flat)
