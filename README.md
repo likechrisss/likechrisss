@@ -14,6 +14,16 @@ and marginalized communities.
 🌱 I’m currently learning **more about Data** and hoping to make my mark in
 improving **Data Analytics in Healthcare in Haiti**.
 
+## 🧠 AI and Healthcare: Words to Reflect On
+
+Geoffrey Hinton, the 'godfather of AI,' warns us not to mistake progress for
+perfection. In healthcare, the consequences of AI's errors can be
+devastating—misdiagnoses, overlooked nuances, and ethical dilemmas.
+His skepticism serves as a reminder: AI should augment human judgment,
+not replace it, especially when lives are at stake."
+
+This resonates deeply with my vision of leveraging AI responsibly in healthcare.
+
 ## 📫 How to reach me
 
 You can email me at [chrismylp1@gmail.com](mailto:chrismylp1@gmail.com).
@@ -26,6 +36,17 @@ You can email me at [chrismylp1@gmail.com](mailto:chrismylp1@gmail.com).
 - 📺 I love a good TV Show.
 - 🎵 In my free time, I enjoy playing music and mixing.
 - 🌍 I love learning new things and try not to put myself in a box.
+
+## 📜 Some Certifications
+
+- **Google Data Analytics Specialization** (2024)  
+  [Coursera - Google](https://www.coursera.org/professional-certificates/google-data-analytics)
+- **Google Project Management Specialization** (2024)  
+  [Coursera - Google](https://www.coursera.org/professional-certificates/google-project-management)
+- **AI for Medicine Specialization** (2023)  
+  [DeepLearning.AI](https://www.deeplearning.ai/program/ai-for-medicine/)
+- **Health Informatics Specialization** (2023)  
+  [Johns Hopkins University School of Medicine](https://www.coursera.org/specializations/health-informatics)
 
 ## 🚀 Goals for 2025
 
