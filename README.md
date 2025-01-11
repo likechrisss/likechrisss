@@ -62,7 +62,7 @@ You can email me at [chrismylp1@gmail.com](mailto:chrismylp1@gmail.com).
 
 [<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40" />](https://www.adobe.com/in/products/illustrator.html)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40" />](https://www.photoshop.com/en)
-[<img src="https://commons.wikimedia.org/wiki/Category:Adobe_After_Effects#/media/File:Adobe_After_Effects_CC_icon.svg" alt="Adobe After Effects" width="40" height="40" />](https://www.adobe.com/products/aftereffects.html)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="Adobe After Effects" width="40" height="40" />](https://www.adobe.com/products/aftereffects.html)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere" width="40" height="40" />](https://www.adobe.com/products/premiere.html)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Capcut-logo.svg" alt="CapCut" width="40" height="40" />](https://www.capcut.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />](https://www.python.org/)
